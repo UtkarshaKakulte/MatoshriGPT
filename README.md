@@ -79,7 +79,7 @@ Ensure you have the following installed:
 ### Setup Instructions  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/ShrihariKasar/MatoshriGPT
+   git clone https://github.com/UtkarshaKakulte/MatoshriGPT
    cd matoshrigpt
    ```
 2. Install dependencies:  
